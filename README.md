@@ -52,7 +52,6 @@ Column description: Represents a unique identification of a person
 This column was Initially used for filling missing values with a fuction we generated called "replace_missing_Values" (per customer ID backward fill, if not having value-> forward fill); we later removed this column after its purpose was fulfilled.
 
 ## Month Column
-
 Column Description: Represents the month of the year
 
 We converted the "Month" column from object to integer by imputing the months with their respective numerical values. We discovered that the dataset uniformly represented 12,500 unique customer IDs each month, suggesting recurring interactions with this specific group of customers.
