@@ -14,7 +14,7 @@ Given a person’s credit-related information, build a machine learning model th
 
 ## Details:
 
-28 columns/ caracteristics 
+28 columns/ characteristics
 
 100000 entries
 
