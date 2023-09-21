@@ -272,7 +272,7 @@ In light of this limitation, we made a deliberate choice to proceed with alterna
 ![Screen Shot 2023-09-21 at 18 57 40](https://github.com/carmeniturbe/credit_score/assets/98364829/8df04856-429f-4b97-bad3-56531d5b6523)
 
 
-## Feature importance
+## Feature importance
 
 We created this bar chart to evaluate the model's features importance. It's evident there are a few features with very little significance, which could allow us to develop another dataframe for future iterations of the model. 
 
