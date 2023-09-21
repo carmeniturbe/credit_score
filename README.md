@@ -10,7 +10,14 @@ This project delves into a dataset obtained from Kaggle, sourced from a global f
 
 Given a person’s credit-related information, build a machine learning model that can classify the credit score.
 
-# Data Disctionary:
+# Data 
+
+## Details:
+
+28 columns/ caracteristics 
+100000 entries
+
+## Data Disctionary:
 
 - **ID:** Represents a unique identification of an entry
 - **Customer_ID:** Represents a unique identification of a person
