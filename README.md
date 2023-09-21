@@ -43,10 +43,10 @@ Given a person’s credit-related information, build a machine learning model th
 
 # Data Cleaning steps:
 
-##ID and Name Columns
+## ID and Name Columns
 These columns represented the name and the unique identification number of a client. We removed the "ID" and "Name" columns as they didn't contribute to the model.
 
-##Customer_ID Column
+## Customer_ID Column
 Column description: Represents a unique identification of a person
 
 This column was Initially used for filling missing values with a fuction we generated called "replace_missing_Values" (per customer ID backward fill, if not having value-> forward fill); we later removed this column after its purpose was fulfilled.
